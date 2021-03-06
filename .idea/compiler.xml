@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bus-route-dao" />
+        <module name="bus-route-crawler" />
+        <module name="bus-route-search" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bus-route-crawler" target="1.8" />
+      <module name="bus-route-dao" target="1.8" />
+      <module name="bus-route-search" target="1.8" />
+      <module name="BusRouteSearch" target="1.8" />
+      <module name="crawler" target="1.8" />
+      <module name="dao" target="1.8" />
+      <module name="search" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bus-route-crawler" options="-parameters" />
+      <module name="bus-route-dao" options="-parameters" />
+      <module name="bus-route-search" options="-parameters" />
+      <module name="crawler" options="-parameters" />
+      <module name="dao" options="-parameters" />
+      <module name="search" options="-parameters" />
+    </option>
+  </component>
+</project>

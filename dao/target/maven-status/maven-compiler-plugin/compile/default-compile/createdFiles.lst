@@ -1,0 +1,6 @@
+com\gdxx\dao\mapper\LineMajorMapper.class
+com\gdxx\dao\entity\LineStation.class
+com\gdxx\dao\mapper\LineClassifyMapper.class
+com\gdxx\dao\mapper\LineStationMapper.class
+com\gdxx\dao\entity\LineMajor.class
+com\gdxx\dao\entity\LineClassify.class

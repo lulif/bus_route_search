@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.gdxx.dao.mapper.LineClassifyMapper">
+
+    <insert id="batchInsert"  parameterType="list" keyProperty="id" keyColumn="id" useGeneratedKeys="true">
+        insert into line_classify (majorId,`section`,firstBusTime,lastBusTime,stationNum)
+        values
+        <foreach collection="list" item="item" index="index" separator=",">
+            (
+            #{item.majorId},
+            #{item.section},
+            #{item.firstBusTime},
+            #{item.lastBusTime},
+            #{item.stationNum}
+            )
+        </foreach>
+    </insert>
+
+</mapper>

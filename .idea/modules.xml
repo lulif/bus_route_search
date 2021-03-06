@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BusRouteSearch.iml" filepath="$PROJECT_DIR$/.idea/BusRouteSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crawler/bus-route-crawler.iml" filepath="$PROJECT_DIR$/crawler/bus-route-crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/bus-route-dao.iml" filepath="$PROJECT_DIR$/dao/bus-route-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/search/bus-route-search.iml" filepath="$PROJECT_DIR$/search/bus-route-search.iml" />
+    </modules>
+  </component>
+</project>

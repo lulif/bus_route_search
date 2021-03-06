@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8ac74fe-d091-4b9f-8187-808c4c4b0d71" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oN7rzKDGUpAPVv8vdLjR6gS1nF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/文件夹/iot_manage" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lulif\IdeaProjects\BusRouteSearch\crawler\src\main\resources" />
+      <recent name="C:\Users\lulif\IdeaProjects\BusRouteSearch\search\src\main\resources" />
+      <recent name="C:\Users\lulif\IdeaProjects\BusRouteSearch\dao\src\main\resources" />
+      <recent name="C:\Users\lulif\IdeaProjects\BusRouteSearch\dao\src\main\java\com\gdxx\dao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SearchApplication">
+    <configuration name="CalculateUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gdxx.search.utils.CalculateUtil" />
+      <module name="bus-route-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gdxx.search.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrawlerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="bus-route-crawler" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gdxx.crawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gdxx.crawler.CrawlerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="bus-route-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gdxx.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gdxx.search.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SearchApplication" />
+        <item itemvalue="Spring Boot.CrawlerApplication" />
+        <item itemvalue="Application.CalculateUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8ac74fe-d091-4b9f-8187-808c4c4b0d71" name="Default Changelist" comment="" />
+      <created>1613115396445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613115396445</updated>
+      <workItem from="1613115398765" duration="4201000" />
+      <workItem from="1613119624710" duration="44000" />
+      <workItem from="1613119673697" duration="13366000" />
+      <workItem from="1613199504601" duration="17902000" />
+      <workItem from="1613271039728" duration="16170000" />
+      <workItem from="1613356942943" duration="14680000" />
+      <workItem from="1613457151605" duration="14670000" />
+      <workItem from="1613564968765" duration="1279000" />
+      <workItem from="1613974257193" duration="2438000" />
+      <workItem from="1614412237252" duration="6469000" />
+      <workItem from="1614487214726" duration="5223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="42" key="#Inspections" timestamp="1613119955014">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1613119955014" />
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1613485056820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1613485056820" />
+    <state x="459" y="231" width="447" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1614434568651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="459" y="231" width="447" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1614434568651" />
+    <state x="459" y="230" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1613200199308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="459" y="230" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1366.728@0.0.1366.728" timestamp="1613200199308" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1613457469255">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1613457469255" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613457432752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1613457432752" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1614488705843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614488705843" />
+    <state width="1323" height="14" key="GridCell.Tab.0.bottom" timestamp="1614496320745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="14" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614496320745" />
+    <state width="1323" height="14" key="GridCell.Tab.0.center" timestamp="1614496320745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="14" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614496320745" />
+    <state width="1323" height="14" key="GridCell.Tab.0.left" timestamp="1614496320745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="14" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614496320745" />
+    <state width="1323" height="14" key="GridCell.Tab.0.right" timestamp="1614496320745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="14" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614496320745" />
+    <state width="1323" height="14" key="GridCell.Tab.1.bottom" timestamp="1614496320745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="14" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614496320745" />
+    <state width="1323" height="14" key="GridCell.Tab.1.center" timestamp="1614496320745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="14" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1614496320745" />
+    <state width="1323" height="14" key="GridCell.Tab.1.left" timestamp="1614496320745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="14" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1614496320745" />
+    <state width="1323" height="14" key="GridCell.Tab.1.right" timestamp="1614496320745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="14" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614496320745" />
+    <state width="1323" height="14" key="GridCell.Tab.2.bottom" timestamp="1614496320745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="14" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614496320745" />
+    <state width="1323" height="14" key="GridCell.Tab.2.center" timestamp="1614496320745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="14" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1614496320745" />
+    <state width="1323" height="14" key="GridCell.Tab.2.left" timestamp="1614496320745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="14" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1614496320745" />
+    <state width="1323" height="14" key="GridCell.Tab.2.right" timestamp="1614496320745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="14" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1614496320745" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1613974614013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1613974614013" />
+    <state x="57" y="24" key="new project wizard" timestamp="1613134054793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1613134054793" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1613215148375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1613215148375" />
+  </component>
+</project>
